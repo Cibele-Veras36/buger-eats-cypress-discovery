@@ -1,7 +1,7 @@
 {
   "name": "buger-eats2",
   "version": "1.0.0",
-  "description": "Projoto de testes de aceitação do app Bugereats",
+  "description": "Projeto de testes de aceitação do app Bugereats",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress open"
