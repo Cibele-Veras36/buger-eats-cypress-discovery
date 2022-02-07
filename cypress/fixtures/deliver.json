@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Cibele Veras",
+        "cpf": "00000025225",
+        "email": "cibele@hotmail.com",
+        "whatsapp": "11988888888",
+        "address": {
+            "postalcode": "05037030",
+            "street": "Rua Capitão Francisco Teixeira Nogueira",
+            "number": "30",
+            "details": "bloco 05 Ap 54",
+            "disctrict": "Água Branca",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Roberto Carlos",
+        "cpf": "000000252AB",
+        "email": "roberto@hotmail.com",
+        "whatsapp": "1198888888",
+        "address": {
+            "postalcode": "05037030",
+            "street": "Rua Capitão Francisco Teixeira Nogueira",
+            "number": "30",
+            "details": "bloco 05 Ap 54",
+            "disctrict": "Água Branca",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Cibele Veras",
+        "cpf": "00000025225",
+        "email": "cibele.com.br",
+        "whatsapp": "11988888888",
+        "address": {
+            "postalcode": "05037030",
+            "street": "Rua Capitão Francisco Teixeira Nogueira",
+            "number": "30",
+            "details": "bloco 05 Ap 54",
+            "disctrict": "Água Branca",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
